@@ -14,7 +14,7 @@ Otherwise follow, regular ROS2 installation instructions and install this packag
 
 
 ## Testing
-- Run `ros2 launch simpose test_simpose.launch.py` to start the siximpose node and rviz2
+- Run `ros2 launch simpose test_simpose.launch.py` to start the simpose node and rviz2
 
 
 ### Notes
